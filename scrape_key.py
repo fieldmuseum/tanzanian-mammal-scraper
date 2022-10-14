@@ -14,9 +14,9 @@ def get_child_urls(url:str, output_list:list, base_url:str, run_count:int) -> li
     if re.match(base_url, url) is not None:
         url = re.sub(base_url, '', url)
 
-    print(f'{run_count} = {url}')
+    print(f'{run_count} = {base_url}{url}')
 
-    soup = us.get_page_soup(url)
+    soup = us.get_page_soup(base_url + url)
 
     page = {
         'order': run_count,
@@ -96,8 +96,8 @@ def get_child_urls(url:str, output_list:list, base_url:str, run_count:int) -> li
     
     else:
 
-        # # test batch
-        # if run_count > 10: run_count = "stop"
+        # test batch
+        if run_count > 10: run_count = "stop"
 
         # Get Match-page-specific fields
 
@@ -199,15 +199,11 @@ def main():
     date_suffix = re.sub(r'\-|\s*|\:|\..*', '', str(date.today()))
 
     with open(f"{output_path}scraped_key_{date_suffix}.csv", encoding='utf-8', mode='w') as scraped_urls:
-        col_names = output_list[0].keys()
-        write = csv.DictWriter(scraped_urls, fieldnames=col_names)
+        col_names = list(output_list[0].keys())
+        print(col_names)
+        write = csv.DictWriter(f=scraped_urls, fieldnames=col_names)
+        write.writeheader()
         write.writerows(output_list)
-    
-
-    # with open(f"{output_path}key_child_list_{date_suffix}.csv", encoding='utf-8', mode='w') as child_urls_csv:
-    #     child_col_names = child_urls[0].keys()
-    #     write = csv.DictWriter(child_urls_csv, fieldnames=child_col_names)
-    #     write.writerows(child_urls)
 
 
 if __name__ == '__main__':
