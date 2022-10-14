@@ -29,18 +29,6 @@ def get_taxon_page_fields(url:str, output_list:list, base_url:str, run_count:int
         'common': None,
         'image_credits':None
     }
-    
-    # - For Current child pages [if any] - 'Select' link
-
-    # # Get list of all URLs on the current key-page
-    # soup_links = us.get_html_from_soup(soup=soup, selector="a")
-
-    # soup_species_list = []
-
-    # Get Match-page-specific fields
-
-    # Switch page-type
-    page['page_type'] = 'Match-page'
 
     # Add match-taxon
     page['taxon'] = us.get_text_from_soup(soup, 'h1')
