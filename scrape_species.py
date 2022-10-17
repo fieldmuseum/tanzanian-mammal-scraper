@@ -23,7 +23,11 @@ def get_taxon_page_fields(url:str, output_list:list, base_url:str, run_count:int
         'descrip_text_raw':None,
         'type_descrip':None,
         'type_locality':None,
-        'measurements':None,
+        'measurements_raw':None,
+        'mea_head_body':None,
+        'mea_tail':None,
+        'mea_weight':None,
+        'key_reference': None,
         'taxon': None,
         'author_year': None,
         'common': None,
@@ -51,27 +55,59 @@ def get_taxon_page_fields(url:str, output_list:list, base_url:str, run_count:int
             if 'alt' not in image.attrs:
                 page_image_list.append(base_url + image['src'])
         if len(page_image_list) > 0:
-            page['images'] = ' | '.join(page_image_list)
+            page['images'] = ' | '.join(page_image_list).strip()
 
     # Get Match-page Text:
-    page_text_chunks = us.get_html_from_soup(soup=soup, selector="div.content_main > *")
+    page_text_chunks = us.get_html_from_soup(soup=soup, selector="div")
     page_text_list = []
     if len(page_text_chunks) > 0:
         for chunk in page_text_chunks:
-            if 'width' in chunk.attrs:
-                if chunk['width'] == '614':
+            if 'id' in chunk.attrs:
+                if chunk['id'] == 'content_main':
                     page_text_list.append(chunk.text)
         if len(page_text_list) > 0:
-            page['descrip_text_raw'] = str(page_text_list)
+            page['descrip_text_raw'] = ' | '.join(page_text_list)
+            if 'Select species from list' in page['descrip_text_raw']: return
 
-    # Get Type Descrip
+    if page['descrip_text_raw'] is not None:
 
+        # Get Type Descrip
+        page['type_descrip'] = re.sub(
+            r'(.*\n)*(Type Description\:\n*)(.+)(\nType Locality.*)(\n*.)*', r'\3',
+            page['descrip_text_raw']).strip()
 
-    # Get Type Locality
+        # Get Type Locality
+        page['type_locality'] = re.sub(
+            r'(.*\n)*(Type Locality\:\n)(.*)(\nMeasurements.*)(\n*.)*', r'\3',
+            page['descrip_text_raw']).strip()
+        if page['type_locality'] == page['descrip_text_raw']:
+            page['type_locality'] = None
 
+        # Get Measurements
+        page['measurements_raw'] = re.sub(
+            r'(.*\n)*(Measurements\:\n*)(.+)(g[A-Z].+)(\n*.)*', r'\3g',
+            page['descrip_text_raw']).strip()
+        
+        if page['measurements_raw'] is not None:
 
-    # Get Measurements
+            # Get Head/Body
+            page['mea_head_body'] = re.sub(r'(Head and body\:\s)(.+)(mTail.*)', r'\2m', page['measurements_raw'])
 
+            # Get Tail
+            page['mea_tail'] = re.sub(r'(.*Tail length\:\s)(.+)(mWeight.*)', r'\2m', page['measurements_raw'])
+
+            # Get Weight
+            page['mea_weight'] = re.sub(r'(.*Weight\:\s)(.+)', r'\2', page['measurements_raw']).strip()
+
+        # Get Key reference
+        page['key_reference'] = re.sub(
+            r'(.|\n)*(Key Reference\:\n*)(.+)', r'\3',
+            page['descrip_text_raw']).strip()
+
+        # get image credit
+        # <p id="credit">
+
+        # 
 
     # Get list of Match-page image-URLs
     page_images = us.get_html_from_soup(soup=soup, selector="img")
@@ -148,7 +184,7 @@ def main():
     output_list = []
 
     # Test small batch
-    soup_species_list = soup_species_list[0:9]
+    soup_species_list = soup_species_list[0:5]
 
     if len(soup_species_list) > 0:
 
