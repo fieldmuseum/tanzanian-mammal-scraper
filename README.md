@@ -1,6 +1,8 @@
 # tanzanian-mammal-scraper
 A set of scrapers to pull data/media from http://archive.fieldmuseum.org/tanzania, and output a CSV that is semi-ready for EMu-import.  Some parsing may be required.
 
+-----
+
 ## How to scrape a dichotomous key:
 
 Run `python3 scrape_key.py [starter-URL] [path/where/output/should/go/]`
@@ -24,6 +26,7 @@ For example, to scrape the Skull Key, start from its 'general' page:
 - taxon = Genus name from Match-page
 - match_text = body-text of a Match-page
 
+-----
 
 ## How to scrape the species-list page:
 
