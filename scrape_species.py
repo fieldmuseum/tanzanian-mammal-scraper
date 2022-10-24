@@ -136,7 +136,7 @@ def get_taxon_page_fields(url:str, output_list:list, base_url:str, run_count:int
     if page not in output_list:
         output_list.append(page)
     
-    time.sleep(0.5)
+    time.sleep(4)
 
     return
 
@@ -183,8 +183,8 @@ def main():
 
     output_list = []
 
-    # Test small batch
-    soup_species_list = soup_species_list[0:5]
+    # # Test small batch
+    # soup_species_list = soup_species_list[0:5]
 
     if len(soup_species_list) > 0:
 
