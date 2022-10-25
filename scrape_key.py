@@ -8,6 +8,8 @@ import utils.setup as setup
 def get_child_urls(url:str, output_list:list, base_url:str, run_count:int) -> list:
     '''get a list of each child URL and its own child-option-URLs'''
 
+    time.sleep(4.5)
+
     if run_count == "stop": return
     run_count += 1
 
@@ -96,8 +98,8 @@ def get_child_urls(url:str, output_list:list, base_url:str, run_count:int) -> li
     
     else:
 
-        # test batch
-        if run_count > 10: run_count = "stop"
+        # # test batch
+        # if run_count > 10: run_count = "stop"
 
         # Get Match-page-specific fields
 
@@ -164,8 +166,6 @@ def get_child_urls(url:str, output_list:list, base_url:str, run_count:int) -> li
 
 
     output_list.append(page)
-    
-    time.sleep(0.5)
 
     return run_count
 
