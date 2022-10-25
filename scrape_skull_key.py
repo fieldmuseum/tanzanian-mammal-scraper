@@ -72,9 +72,14 @@ def get_child_urls(url:str, output_list:list, base_url:str, run_count:int) -> li
         page_text_list = []
         if len(page_text_chunks) > 0:
             for chunk in page_text_chunks:
+                if 'colspan' in chunk.attrs:
+                    if chunk['colspan'] == '2':
+                        if re.match(r'Section\:\s*', chunk.text) is not None:
+                            # print(chunk.text)
+                            page['section'] = chunk.text.strip()
                 if 'width' in chunk.attrs:
                     if chunk['width'] == '300':
-                        if re.match('Option (A|B)', chunk.text) is None:
+                        if re.match(r'Option (A|B)', chunk.text) is None:
                             page_text_list.append(chunk.text)
             if len(page_text_list) > 0:
                 page['opt_a_text'] = page_text_list[0]
@@ -198,7 +203,7 @@ def main():
 
     date_suffix = re.sub(r'\-|\s*|\:|\..*', '', str(date.today()))
 
-    with open(f"{output_path}scraped_key_{date_suffix}.csv", encoding='utf-8', mode='w') as scraped_urls:
+    with open(f"{output_path}scraped_skull_key_{date_suffix}.csv", encoding='utf-8', mode='w') as scraped_urls:
         col_names = list(output_list[0].keys())
         print(col_names)
         write = csv.DictWriter(f=scraped_urls, fieldnames=col_names)

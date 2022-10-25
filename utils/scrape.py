@@ -1,9 +1,18 @@
 '''Utility functions scraping web pages'''
 
+# import asyncio, httpx
 import requests, os, re, glom
 from bs4 import BeautifulSoup
 # from dotenv import dotenv_values
 # from markdownify import markdownify as md
+
+# async def get_page_soup_async(url: str) -> BeautifulSoup:
+#     '''Returns BeautifulSoup for a web page'''
+#     r = httpx.get(url)
+#     encoding = r.encoding if 'charset' in r.headers.get('content-type', '').lower() else None
+#     parser = 'html.parser'
+#     soup = BeautifulSoup(r.content, parser, from_encoding=encoding)
+#     return soup
 
 
 def get_page_soup(url: str) -> BeautifulSoup:
