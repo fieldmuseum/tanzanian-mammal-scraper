@@ -8,7 +8,7 @@ import utils.setup as setup
 def get_child_urls(url:str, output_list:list, base_url:str, run_count:int) -> list:
     '''get a list of each child URL and its own child-option-URLs'''
 
-    time.sleep(4.5)
+    time.sleep(4)
 
     if run_count == "stop": return
     run_count += 1
@@ -24,6 +24,7 @@ def get_child_urls(url:str, output_list:list, base_url:str, run_count:int) -> li
         'order': run_count,
         'url': base_url + url,
         'page_type': 'Option-page',
+        'section': None,
         'opt_a_link': None,
         'opt_a_text': None,
         'opt_a_img': None,
@@ -57,7 +58,7 @@ def get_child_urls(url:str, output_list:list, base_url:str, run_count:int) -> li
 
                 soup_child_list.append({'url':base_url + child_link_url})
 
-                time.sleep(0.5)
+                time.sleep(2.5)
 
                 run_count = get_child_urls(base_url + child_link_url, output_list, base_url, run_count)
     
