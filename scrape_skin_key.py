@@ -116,6 +116,15 @@ def get_child_urls(url:str, output_list:list, base_url:str, run_count:int) -> li
         # Add match-taxon
         page['match_taxon'] = us.get_text_from_soup(soup, 'td i')
 
+        if us.get_text_from_soup(soup, 'h1[id=species]') is not None:
+            page['match_taxon'] = us.get_text_from_soup(soup, 'h1[id=species]')
+            print(page['match_taxon'])
+
+        author = us.get_text_from_soup(soup, 'p[id=zero_margin]')
+        print(author)
+        if author is not None:
+            page['match_taxon'] += f' {author}'
+
         # Add common name
         td_tags = us.get_text_from_soup(soup, 'td')
         if len(td_tags) > 0:
@@ -123,8 +132,8 @@ def get_child_urls(url:str, output_list:list, base_url:str, run_count:int) -> li
                 if re.match('Your specimen matches', td.text) is not None:
                     common_name = re.sub(r'Your specimen matches.+\n(.+\n)+(.+)\n*', r'\2', td.text)
                     page['match_common'] = common_name
-
-        page['match_taxon'] = us.get_text_from_soup(soup, 'td i')
+                    if us.get_text_from_soup(soup, 'h3') is not None and common_name is None:
+                        page['match_common'] = us.get_text_from_soup(soup, 'h3')
 
         # Add images
         page_images = us.get_html_from_soup(soup=soup, selector="img")
@@ -171,7 +180,7 @@ def get_child_urls(url:str, output_list:list, base_url:str, run_count:int) -> li
     if len(page_credit_list) > 0:
         page['image_credits'] = ' | '.join(page_credit_list)
 
-
+    print(page)
     output_list.append(page)
 
     return run_count
