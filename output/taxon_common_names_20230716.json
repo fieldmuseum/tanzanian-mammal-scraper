@@ -1,0 +1,6674 @@
+[
+ {
+  "taxon": "Chrysochloris stuhlmanni",
+  "common_names": [
+   {
+    "taxonname": "Stuhlmann's Golden Mole",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Micropotamogale ruwenzorii",
+  "common_names": [
+   {
+    "taxonname": "Rwenzori Otter Shrew",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Ruwenzori Otter Shrew",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Le Micropotamogle du Mont Ruwenzori",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Potamogale velox",
+  "common_names": [
+   {
+    "taxonname": "Giant Otter Shrew",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Giant Otter-shrew",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Le Potamogale",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Elephantulus brachyrhynchus",
+  "common_names": [
+   {
+    "taxonname": "Short-snouted Sengi",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Short-snouted Elephant-shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Elephantulus rufescens",
+  "common_names": [
+   {
+    "taxonname": "Rufous Sengi",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Rufous Elephant-shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Petrodromus tetradactylus",
+  "common_names": [
+   {
+    "taxonname": "Four-toed Sengi",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Four-toed Elephant-shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhynchocyon chrysopygus",
+  "common_names": [
+   {
+    "taxonname": "Golden-rumped Sengi",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Golden-rumped Elephant-shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhynchocyon cirnei",
+  "common_names": [
+   {
+    "taxonname": "Chequered Sengi",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Chequered Elephant-shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhynchocyon petersi",
+  "common_names": [
+   {
+    "taxonname": "Black and Rufous Sengi",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhynchocyon udzungwensis",
+  "common_names": [
+   {
+    "taxonname": "Grey-faced Sengi",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Grey-faced Elephant-shrew",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Gray-faced Sengi",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Orycteropus afer",
+  "common_names": [
+   {
+    "taxonname": "Aardvark",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Antbear",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Oryctérope",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Dendrohyrax arboreus",
+  "common_names": [
+   {
+    "taxonname": "Southern Tree Hyrax",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Eastern Tree Dassie",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Eastern Tree Hyrax",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Southern Tree Dassie",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Daman d'Arbre",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Heterohyrax brucei",
+  "common_names": [
+   {
+    "taxonname": "Yellow-spotted Rock Hyrax",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Hoggar Hyrax",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Bush Hyrax",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Yellow-spotted Hyrax",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Daman de steppe",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Procavia capensis",
+  "common_names": [
+   {
+    "taxonname": "Rock Hyrax",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Rock Dassie",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Daman de rocher",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Loxodonta africana",
+  "common_names": [
+   {
+    "taxonname": "African Savanna Elephant",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Savanna Elephant",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "African Bush Elephant",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "African Savannah Elephant",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Savannah Elephant",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Éléphant de savane",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Elefante de Sabana",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Dugong dugon",
+  "common_names": [
+   {
+    "taxonname": "Dugong",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Sea Cow",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Dugong",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Dugon",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Cercocebus sanjei",
+  "common_names": [
+   {
+    "taxonname": "Sanje Crested Mangabey",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Sanje River Mangabey",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Sanje Mangabey",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Mangabé de la Sanje",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Mangabey del Sanje",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Cercopithecus albogularis",
+  "common_names": []
+ },
+ {
+  "taxon": "Cercopithecus doggetti",
+  "common_names": []
+ },
+ {
+  "taxon": "Cercopithecus mitis",
+  "common_names": [
+   {
+    "taxonname": "Blue Monkey",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Diademed Monkey",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Golden Monkey",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Samango",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Sykes' Monkey",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Gentle Monkey",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Cercopithèque à diadème",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Chlorocebus pygerythrus",
+  "common_names": [
+   {
+    "taxonname": "Vervet",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Vervet Monkey",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Vervet bleu",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Vervet Oriental",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Colobus angolensis",
+  "common_names": [
+   {
+    "taxonname": "Angolan Black-and-white Colobus",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Angolan Colobus",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Angola Colobus",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Colobe",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Colobe d'Angola",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Colobo de Angola",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Colobus guereza",
+  "common_names": [
+   {
+    "taxonname": "Guereza",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Magistrate Colobus",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Eastern Black-and-white Colobus",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Colobe de l'Abyssinie",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Colobe guéréza",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Colobe à épaules blanches",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Colobo Rojo Guereza",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Colobo Guereza",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Erythrocebus patas",
+  "common_names": [
+   {
+    "taxonname": "Patas Monkey",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Hussar Monkey",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Nisnas",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Patas",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Singe rouge",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Mono Patas",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Papio anubis",
+  "common_names": [
+   {
+    "taxonname": "Olive Baboon",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Anubis Baboon",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Babouin anubis",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Papión Oliva",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Papio cynocephalus",
+  "common_names": [
+   {
+    "taxonname": "Yellow Baboon",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Babouin cynocépahle",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Papión Dorado",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Piliocolobus gordonorum",
+  "common_names": [
+   {
+    "taxonname": "Udzungwa Red Colobus",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Uhehe Red Colobus",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Colobe des Gordon",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Colobo Rojo de Udzungwa",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Piliocolobus kirkii",
+  "common_names": [
+   {
+    "taxonname": "Kirk's Red Colobus",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Zanzibar Red Colobus",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Colobe de Zanzibar",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Colobo Rojo de Zanzibar",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Piliocolobus tephrosceles",
+  "common_names": [
+   {
+    "taxonname": "Ashy Red Colobus",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Uganda Red Colobus",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Colobe d'Ouganda",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Colobo Rojo de Tanzania",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Rungwecebus kipunji",
+  "common_names": [
+   {
+    "taxonname": "Kipunji",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Kipunji",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Kipunji",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Galago granti",
+  "common_names": []
+ },
+ {
+  "taxon": "Galago moholi",
+  "common_names": [
+   {
+    "taxonname": "Southern Lesser Galago",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "South African Galago",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "South African Lesser Galago",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Mohol Galago",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Galago orinus",
+  "common_names": []
+ },
+ {
+  "taxon": "Galago rondoensis",
+  "common_names": []
+ },
+ {
+  "taxon": "Galago senegalensis",
+  "common_names": [
+   {
+    "taxonname": "Northern Lesser Galago",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Senegal Lesser Galago",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Senegal Galago",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Lesser Galago",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Lesser Bushbaby",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Galago du Sénégal",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Gálago de Senegal",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Galago zanzibaricus",
+  "common_names": []
+ },
+ {
+  "taxon": "Otolemur crassicaudatus",
+  "common_names": [
+   {
+    "taxonname": "Garnett's Greater Galago",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Thick-tailed Greater Galago",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Greater Galago",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Greater Bushbaby",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Large-eared Greater Galago",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Thick-tailed Bushbaby",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Grand Galago",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Galago à queue touffue",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Gálago de Cola Gruesa",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Otolemur garnettii",
+  "common_names": [
+   {
+    "taxonname": "Small-eared Galago",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Garnett's Greater Galago",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Small-eared Greater Galago",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Garnett’s Bushbaby",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Galago de Garnett",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Otolemur monteiri",
+  "common_names": []
+ },
+ {
+  "taxon": "Homo sapiens",
+  "common_names": []
+ },
+ {
+  "taxon": "Pan troglodytes",
+  "common_names": [
+   {
+    "taxonname": "Chimpanzee",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Common Chimpanzee",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Robust Chimpanzee",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Chimpanzé",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Chimpancé",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Lepus capensis",
+  "common_names": [
+   {
+    "taxonname": "Cape Hare",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Arabian Hare",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Brown Hare",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Desert Hare",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Lievre Du Cap",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Liebre Del Cabo",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Lepus microtis",
+  "common_names": []
+ },
+ {
+  "taxon": "Pronolagus rupestris",
+  "common_names": [
+   {
+    "taxonname": "Smith's Red Rock Hare",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Smith's Red Rockhare",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Smith's Red Rabbit",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Lièvre Roux de Smith",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Atelerix albiventris",
+  "common_names": [
+   {
+    "taxonname": "Four-toed Hedgehog",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Congosorex phillipsorum",
+  "common_names": [
+   {
+    "taxonname": "Phillips’ Congo Shrew",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura allex",
+  "common_names": [
+   {
+    "taxonname": "Highlands Shrew",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "East African Highland Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura desperata",
+  "common_names": [
+   {
+    "taxonname": "Desperate Shrew",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura elgonius",
+  "common_names": [
+   {
+    "taxonname": "Elgon Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura fischeri",
+  "common_names": [
+   {
+    "taxonname": "Fischer's Shrew",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura fuscomurina",
+  "common_names": [
+   {
+    "taxonname": "Tiny Musk Shrew",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Bicolored Musk Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura gracilipes",
+  "common_names": [
+   {
+    "taxonname": "Peters' Musk Shrew",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura hildegardeae",
+  "common_names": [
+   {
+    "taxonname": "Hildegarde's Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura hirta",
+  "common_names": [
+   {
+    "taxonname": "Lesser Red Musk Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura jacksoni",
+  "common_names": [
+   {
+    "taxonname": "Jackson's Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura luna",
+  "common_names": [
+   {
+    "taxonname": "Greater Gray-brown Musk Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura monax",
+  "common_names": [
+   {
+    "taxonname": "Kilimanjaro Shrew",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Rombo Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura montis",
+  "common_names": [
+   {
+    "taxonname": "Montane White-toothed Shrew",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura nana",
+  "common_names": [
+   {
+    "taxonname": "Somali Dwarf Shrew",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Dwarf White-toothed Shrew",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura nanilla",
+  "common_names": [
+   {
+    "taxonname": "Tiny White-toothed Shrew",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Savanna Dwarf Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura nigrofusca",
+  "common_names": [
+   {
+    "taxonname": "Tenebrous Shrew",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "African Black Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura olivieri",
+  "common_names": [
+   {
+    "taxonname": "Olivier's Shrew",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "African Giant Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura parvipes",
+  "common_names": [
+   {
+    "taxonname": "Small-footed Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura roosevelti",
+  "common_names": [
+   {
+    "taxonname": "Roosvelt's Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura tansaniana",
+  "common_names": [
+   {
+    "taxonname": "Tanzanian Shrew",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura telfordi",
+  "common_names": [
+   {
+    "taxonname": "Telford's Shrew",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura turba",
+  "common_names": [
+   {
+    "taxonname": "Turbo Shrew",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Tumultuous Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura usambarae",
+  "common_names": [
+   {
+    "taxonname": "Usambara Shrew",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Usambara Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura viaria",
+  "common_names": [
+   {
+    "taxonname": "Savanna Path Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura voi",
+  "common_names": [
+   {
+    "taxonname": "Voi Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocidura xantippe",
+  "common_names": [
+   {
+    "taxonname": "Xanthippe's Shrew",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Vermiculate Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Myosorex geata",
+  "common_names": [
+   {
+    "taxonname": "Geata Mouse Shrew",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Myosorex kihaulei",
+  "common_names": [
+   {
+    "taxonname": "Kihaule's Mouse Shrew",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Myosorex zinki",
+  "common_names": [
+   {
+    "taxonname": "Kilimanjaro Mouse Shrew",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Suncus aequatorius",
+  "common_names": [
+   {
+    "taxonname": "Taita Dwarf Shrew",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Suncus lixus",
+  "common_names": [
+   {
+    "taxonname": "Greater Dwarf Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Suncus megalura",
+  "common_names": [
+   {
+    "taxonname": "Climbing Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Suncus murinus",
+  "common_names": [
+   {
+    "taxonname": "House Shrew",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Asian House Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Suncus varilla",
+  "common_names": [
+   {
+    "taxonname": "Lesser Dwarf Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Sylvisorex granti",
+  "common_names": [
+   {
+    "taxonname": "Grant's Forest Shrew",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Grant's Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Sylvisorex howelli",
+  "common_names": [
+   {
+    "taxonname": "Howell's Shrew",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Howell's Forest Shrew",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Sylvisorex johnstoni",
+  "common_names": [
+   {
+    "taxonname": "Johnston's Forest Shrew",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Johnston's Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Sylvisorex lunaris",
+  "common_names": [
+   {
+    "taxonname": "Moon Forest Shrew",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Crescent Shrew",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Coleura afra",
+  "common_names": [
+   {
+    "taxonname": "African Sheath-tailed Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Coleura seychellensis",
+  "common_names": [
+   {
+    "taxonname": "Seychelles Sheath-tailed Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Taphozous hildegardeae",
+  "common_names": [
+   {
+    "taxonname": "Hildegarde's Tomb Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Taphien de Hildegarde",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Taphozous mauritianus",
+  "common_names": [
+   {
+    "taxonname": "Mauritian Tomb Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Taphozous bat of Mauritius",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Tomb Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Taphozous nudiventris",
+  "common_names": [
+   {
+    "taxonname": "Naked-rumped Tomb Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Naked-bellied Tomb Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Taphozous perforatus",
+  "common_names": [
+   {
+    "taxonname": "Egyptian Tomb Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Geoffroy's Tomb Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "African Taphozous",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Tomb Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Perforated Taphozous Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Asellia tridens",
+  "common_names": [
+   {
+    "taxonname": "Geoffroy's Trident Leaf-nosed Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Trident Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Trident Leaf-nosed Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Cloeotis percivali",
+  "common_names": [
+   {
+    "taxonname": "Percival's Trident Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Percival's Short-eared Trident Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "African Trident Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "East African Trident Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Short-eared Trident Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Hipposideros caffer",
+  "common_names": [
+   {
+    "taxonname": "Cape Leaf-nosed bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Common African Leaf-nosed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Lesser Leaf-nosed bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Sundevall's Leaf-nosed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Sundevall's Roundleaf Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Phyllorhine de Cafrerie",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Hipposideros cyclops",
+  "common_names": [
+   {
+    "taxonname": "Cyclops Roundleaf Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Hipposideros gigas",
+  "common_names": []
+ },
+ {
+  "taxon": "Hipposideros ruber",
+  "common_names": [
+   {
+    "taxonname": "Noack's Roundleaf Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Hipposideros vittatus",
+  "common_names": []
+ },
+ {
+  "taxon": "Triaenops persicus",
+  "common_names": [
+   {
+    "taxonname": "Persian Trident Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Persian Leaf-nosed Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Cardioderma cor",
+  "common_names": [
+   {
+    "taxonname": "Heart-nosed Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "African False Vampire Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Lavia frons",
+  "common_names": [
+   {
+    "taxonname": "Yellow-winged Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Chaerephon ansorgei",
+  "common_names": [
+   {
+    "taxonname": "Ansorge's Free-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Ansorge's Wrinkle-lipped Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Molosse d'Afrique du Sud",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Molosse d'Ansorge",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Tadaride d'Ansorge",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Chaerephon bemmeleni",
+  "common_names": [
+   {
+    "taxonname": "Gland-tailed Free-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Gland-tailed Wrinkle-lipped Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Van Bemmelen's Wrinkle-lipped Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Molosse à glandes caudales",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Tadaride à glande caudale",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Chaerephon bivittatus",
+  "common_names": [
+   {
+    "taxonname": "Spotted Free-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Spotted Wrinkle-lipped Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Spotted Gland-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Molosse tacheté",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Tadaride tachetée",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Chaerephon leucogaster",
+  "common_names": []
+ },
+ {
+  "taxon": "Chaerephon major",
+  "common_names": [
+   {
+    "taxonname": "Large Wrinkle-lipped Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Giant Gland-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Lappet-eared Free-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Lappet-eared Wrinkle-lipped Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Grand molosse à glandes caudales",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Tadaride à oreillettes",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Chaerephon nigeriae",
+  "common_names": [
+   {
+    "taxonname": "Nigerian Free-tailed Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Nigerian Wrinkle-lipped Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Molosse du Nigéria",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Tadaride du Nigeria",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Chaerephon pumilus",
+  "common_names": [
+   {
+    "taxonname": "Little Free-tailed Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Lesser Free-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Little Wrinkle-lipped Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "White-bellied Free-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Petite tadaride",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Petit molosse à glandes caudales",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Tadaride bornée",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Mops bakarii",
+  "common_names": []
+ },
+ {
+  "taxon": "Mops brachypterus",
+  "common_names": [
+   {
+    "taxonname": "Sierra Leone Free-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "White-fingered Free-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Sierra Leone Mops Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Short-winged Mops Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Tadaride de Peters",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Tadaride à doigts blancs",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Mops condylurus",
+  "common_names": [
+   {
+    "taxonname": "Knob-tailed Mops Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Knob-tailed Nyctinome",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Angolan Mops Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Angolan Free-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Tadaride d'Angola",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Molosse d'Angola",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Mops midas",
+  "common_names": [
+   {
+    "taxonname": "Midas Mops Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Midas Groove-cheeked Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Midas Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Midas Free-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Sundevall's Free-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Molosse Midas",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Molosse de Midas",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Tadarida de Midas",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Tadaride Midas",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Mops niveiventer",
+  "common_names": [
+   {
+    "taxonname": "White-bellied Free-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "White-bellied Mops Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Tadaride à ventre blanc",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Mops thersites",
+  "common_names": [
+   {
+    "taxonname": "Railer Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Railer Mops Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Tadaride de Railer",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Otomops martiensseni",
+  "common_names": [
+   {
+    "taxonname": "Large-eared Free-tailed Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Martienssen's Big-eared Bulldog Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Giant Mastiff Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Martiensen's Free-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Martienssen Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Large-eared Giant Mastiff Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Tadarida aegyptiaca",
+  "common_names": [
+   {
+    "taxonname": "Egyptian Guano Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Egyptian Nyctinome",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Egyptian Free-tailed Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Tadarida fulminans",
+  "common_names": [
+   {
+    "taxonname": "Malagasy Free-tailed Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Madagascan Large Free-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Lightning Guano Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Large Free-tailed Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Large Guano Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Tadarida ventralis",
+  "common_names": [
+   {
+    "taxonname": "African Giant Free-tailed Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Nycteris arge",
+  "common_names": [
+   {
+    "taxonname": "Bate's Slit-faced Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Nycteris aurita",
+  "common_names": [
+   {
+    "taxonname": "Andersen's Slit-faced Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Nycteris grandis",
+  "common_names": [
+   {
+    "taxonname": "Large Slit-faced Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Nycteris hispida",
+  "common_names": [
+   {
+    "taxonname": "Hairy Slit-faced Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Hairy Long-eared Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Nycteris intermedia",
+  "common_names": [
+   {
+    "taxonname": "Intermediate Slit-faced Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Nycteris macrotis",
+  "common_names": [
+   {
+    "taxonname": "Large-eared Slit-faced Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Nycteris nana",
+  "common_names": [
+   {
+    "taxonname": "Dwarf Slit-faced Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Nycteris thebaica",
+  "common_names": [
+   {
+    "taxonname": "Egyptian Slit-faced Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Common Slit-faced Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Geoffroy's Nycteris",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Cape Long-eared Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Nycteris woodi",
+  "common_names": [
+   {
+    "taxonname": "Wood's Slit-faced Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Wood's Long-eared Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Eidolon helvum",
+  "common_names": [
+   {
+    "taxonname": "Straw-coloured Fruit Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Pale Xantharpy",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Straw-coloured Flying Fox",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "African Straw-coloured Fruit-bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Epomophorus gambianus",
+  "common_names": [
+   {
+    "taxonname": "Gambian Epauletted Fruit Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Epomophorus labiatus",
+  "common_names": [
+   {
+    "taxonname": "Ethiopian Epauletted Fruit Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Epomophorus minor",
+  "common_names": [
+   {
+    "taxonname": "Minor Epauletted Fruit Bat ",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Epomophorus wahlbergi",
+  "common_names": [
+   {
+    "taxonname": "Wahlberg's Epauletted Fruit Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Epomops dobsonii",
+  "common_names": [
+   {
+    "taxonname": "Dobson's Fruit Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Epomops franqueti",
+  "common_names": [
+   {
+    "taxonname": "Franquet's Epauletted Fruit Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Hypsignathus monstrosus",
+  "common_names": [
+   {
+    "taxonname": "Hammer-headed Fruit Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Lissonycteris angolensis",
+  "common_names": [
+   {
+    "taxonname": "Angolan Rousette",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Angolan Fruit Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Micropteropus pusillus",
+  "common_names": [
+   {
+    "taxonname": "Peter's Dwarf Epauletted Fruit Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Myonycteris relicta",
+  "common_names": [
+   {
+    "taxonname": "Bergmans's Collared Fruit Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "East African Little Collared Fruit Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Pteropus seychellensis comorensis",
+  "common_names": []
+ },
+ {
+  "taxon": "Pteropus voeltzkowi",
+  "common_names": [
+   {
+    "taxonname": "Pemba Flying Fox",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Zorro Volador de Voeltzkow",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Rousettus aegyptiacus",
+  "common_names": [
+   {
+    "taxonname": "Egyptian Rousette",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Egyptian Fruit Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Rousettus lanosus",
+  "common_names": [
+   {
+    "taxonname": "Long-haired Rousette",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhinolophus blasii",
+  "common_names": [
+   {
+    "taxonname": "Blasius's Horseshoe Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Peters's Horseshoe Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Peak-saddle Horseshoe Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhinolophus clivosus",
+  "common_names": [
+   {
+    "taxonname": "Cretzschmar's Horseshoe Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Arabian Horseshoe Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Geoffroy's Horseshoe Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhinolophus darlingi",
+  "common_names": [
+   {
+    "taxonname": "Darling's Horseshoe Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhinolophus deckenii",
+  "common_names": [
+   {
+    "taxonname": "Decken's Horseshoe Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Rhinolophe de Decken",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhinolophus eloquens",
+  "common_names": [
+   {
+    "taxonname": "Eloquent Horseshoe Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhinolophus fumigatus",
+  "common_names": [
+   {
+    "taxonname": "Rüppell's Horseshoe Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhinolophus hildebrandtii",
+  "common_names": [
+   {
+    "taxonname": "Hildebrandt's Horseshoe Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhinolophus landeri",
+  "common_names": [
+   {
+    "taxonname": "Lander's Horseshoe Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhinolophus maendeleo",
+  "common_names": [
+   {
+    "taxonname": "Maendeleo Horseshoe Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Rhinolophe de Tanga",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Rhinolophe de Maendeleo",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhinolophus simulator",
+  "common_names": [
+   {
+    "taxonname": "Bushveld Horseshoe Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhinolophus swinnyi",
+  "common_names": [
+   {
+    "taxonname": "Swinny's Horseshoe Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Glauconycteris argentata",
+  "common_names": [
+   {
+    "taxonname": "Silvered Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Glauconycteris variegata",
+  "common_names": [
+   {
+    "taxonname": "Butterfly Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Variegated Butterfly Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Leaf-winged Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Kerivoula africana",
+  "common_names": [
+   {
+    "taxonname": "Tanzanian Woolly Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Kerivoula argentata",
+  "common_names": [
+   {
+    "taxonname": "Damara Woolly Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Silvery Woolly Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Silvered Woolly Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Silver Woolly Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Kerivoula lanosa",
+  "common_names": [
+   {
+    "taxonname": "Lesser Woolly Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Laephotis wintoni",
+  "common_names": [
+   {
+    "taxonname": "De Winton's Long-eared Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Winton's Long-eared Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Mimetillus moloneyi",
+  "common_names": [
+   {
+    "taxonname": "Moloney's Flat-headed Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Miniopterus africanus",
+  "common_names": [
+   {
+    "taxonname": "African Long-fingered Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Miniopterus minor",
+  "common_names": [
+   {
+    "taxonname": "Least Long-fingered Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Miniopterus natalensis",
+  "common_names": [
+   {
+    "taxonname": "Natal Clinging Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Natal Long-fingered Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Miniopterus schreibersi",
+  "common_names": []
+ },
+ {
+  "taxon": "Myotis bocagei",
+  "common_names": []
+ },
+ {
+  "taxon": "Myotis tricolor",
+  "common_names": [
+   {
+    "taxonname": "Cape Hairy Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Temminck's Mouse-eared Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Cape Myotis",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Three-coloured bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Myotis welwitschii",
+  "common_names": [
+   {
+    "taxonname": "Welwitch's Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Welwitsch's Mouse-eared Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Welwitsch's Myotis",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Welwitsch's Hairy Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Neoromicia capensis",
+  "common_names": [
+   {
+    "taxonname": "Cape Serotine",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Cape Pipistrelle Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Cape House Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Cape Serotine Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Cape Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Sérotine du Cap",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Neoromicia guineensis",
+  "common_names": [
+   {
+    "taxonname": "Tiny Serotine",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Guinean Pipistrelle Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Sérotine de Guinée",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Sérotine minuscule",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Pipistrelle de Guinée",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Neoromicia helios",
+  "common_names": [
+   {
+    "taxonname": "Heller's Pipistrelle",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Helios Pipistrelle Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Samburu Pipistrelle Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Pipistrelle soleil",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Neoromicia melckorum",
+  "common_names": [
+   {
+    "taxonname": "Melck's House Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Melck's Serotine Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Melck's Pipistrelle Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Pipistrelle des Melcks",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Sérotine de Melck",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Neoromicia nanus",
+  "common_names": []
+ },
+ {
+  "taxon": "Neoromicia rendalli",
+  "common_names": [
+   {
+    "taxonname": "Rendall's Serotine",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Rendall's Serotine Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Rendall's Pipistrelle Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Rendall's Pipistrelle",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Serotine de Rendall",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Pipistrelle de Rendall",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Neoromicia somalicus",
+  "common_names": []
+ },
+ {
+  "taxon": "Neoromicia tenuipinnis",
+  "common_names": [
+   {
+    "taxonname": "White-winged Serotine",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "White-winged Pipistrelle Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "White-winged Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Slenderwinged Pipistrelle Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Sérotine à ailes blanches",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Pipistrelle à ailes blanches",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Neoromicia zuluensis",
+  "common_names": [
+   {
+    "taxonname": "Zulu Pipistrelle Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Aloe Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Aloe Serotine Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Zulu Serotine Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Aloe Serotine",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Sérotine des aloes",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Pipistrelle zouloue",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Nycticeinops schlieffeni",
+  "common_names": [
+   {
+    "taxonname": "Schlieffen's Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Schlieffen's Twilight Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Pipistrellus hesperidus",
+  "common_names": [
+   {
+    "taxonname": "African Pipistrelle",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Dusky Pipistrelle",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Pipistrellus permixtus",
+  "common_names": [
+   {
+    "taxonname": "Dar-es-salaam Pipistrelle",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Pipistrellus rueppelli",
+  "common_names": []
+ },
+ {
+  "taxon": "Pipistrellus rusticus",
+  "common_names": [
+   {
+    "taxonname": "Rusty Pipistrelle",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Rusty Pipistrelle Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Rusty Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Scotoecus albofuscus",
+  "common_names": [
+   {
+    "taxonname": "Light-winged Lesser House Bat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Thomas' House Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Thomas's Lesser House Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Scotoecus hindei",
+  "common_names": []
+ },
+ {
+  "taxon": "Scotoecus hirundo",
+  "common_names": [
+   {
+    "taxonname": "Dark-winged Lesser House Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Scotophilus dinganii",
+  "common_names": [
+   {
+    "taxonname": "African Yellow Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Dingan's Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Yellow-bellied House Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "African Yellow House Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Yellow House Bat",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Scotophilus leucogaster",
+  "common_names": [
+   {
+    "taxonname": "White-bellied Yellow Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Scotophilus nigrita",
+  "common_names": [
+   {
+    "taxonname": "Schreber's Yellow Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Giant House Bat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Scotophilus viridis",
+  "common_names": [
+   {
+    "taxonname": "Greenish Yellow Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Green House Bat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Lesser Yellow House Bat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Manis gigantea",
+  "common_names": []
+ },
+ {
+  "taxon": "Manis temminckii",
+  "common_names": []
+ },
+ {
+  "taxon": "Manis tricuspis",
+  "common_names": []
+ },
+ {
+  "taxon": "Canis adustus",
+  "common_names": [
+   {
+    "taxonname": "Side-striped Jackal",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Le chacal à flancs rayés",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Canis aureus",
+  "common_names": [
+   {
+    "taxonname": "Golden Jackal",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Eurasian Golden Jackal",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Golden Jackal",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Common Jackal",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Asiatic Jackal",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Chacal Commun",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Chacal Doré",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Chacal",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Canis mesomelas",
+  "common_names": [
+   {
+    "taxonname": "Black-backed Jackal",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Silver-backed Jackal",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Chacal À Chabraque",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Lycaon pictus",
+  "common_names": [
+   {
+    "taxonname": "African Wild Dog",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Cape Hunting Dog",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Painted Hunting Dog",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Cynhyene",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Loup-peint",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Lycaon",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Licaon",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Otocyon megalotis",
+  "common_names": [
+   {
+    "taxonname": "Bat-eared Fox",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "l 'Otocyon",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Acinonyx jubatus",
+  "common_names": [
+   {
+    "taxonname": "Cheetah",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Guépard",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Chita",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Guepardo",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Caracal caracal",
+  "common_names": [
+   {
+    "taxonname": "Caracal",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "African Caracal",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Asian Caracal",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Desert Lynx",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Lynx Du Désert",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Lince Africano",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Felis silvestris",
+  "common_names": [
+   {
+    "taxonname": "Wildcat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "European Wildcat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Chat sauvage",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Gato Montés",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Gato Silvestre",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Leptailurus serval",
+  "common_names": [
+   {
+    "taxonname": "Serval",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Chat-tigre",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Panthera leo",
+  "common_names": [
+   {
+    "taxonname": "Lion",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "African Lion",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Lion d'Afrique",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "León",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Panthera pardus",
+  "common_names": [
+   {
+    "taxonname": "Leopard",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Panthère",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Léopard",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Leopardo",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Pantera",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Atilax paludinosus",
+  "common_names": [
+   {
+    "taxonname": "Marsh Mongoose",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Water Mongoose",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Mangouste des marais",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Bdeogale crassicauda",
+  "common_names": [
+   {
+    "taxonname": "Bushy-tailed Mongoose",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Mangouste à queue touffue",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Bdeogale jacksoni",
+  "common_names": [
+   {
+    "taxonname": "Jackson's Mongoose",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Mangouste de Jackson",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Galerella sanguinea",
+  "common_names": []
+ },
+ {
+  "taxon": "Helogale parvula",
+  "common_names": [
+   {
+    "taxonname": "Common Dwarf Mongoose",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Dwarf Mongoose",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Mangouste naine",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Herpestes ichneumon",
+  "common_names": [
+   {
+    "taxonname": "Large Grey Mongoose",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Egyptian Mongoose",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Mangouste ichneumon",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Mangouste d'Egypte",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Meloncillo",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Herpestes naso",
+  "common_names": [
+   {
+    "taxonname": "Long-nosed Mongoose",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Mangouste à long museau",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Ichneumia albicauda",
+  "common_names": [
+   {
+    "taxonname": "White-tailed Mongoose",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Mangouste à queue blanche",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Mungos mungo",
+  "common_names": [
+   {
+    "taxonname": "Banded Mongoose",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Mangue rayée",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhynchogale melleri",
+  "common_names": [
+   {
+    "taxonname": "Meller's Mongoose",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Mangouste de Meller",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Crocuta crocuta",
+  "common_names": [
+   {
+    "taxonname": "Spotted Hyaena",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Hyaena hyaena",
+  "common_names": [
+   {
+    "taxonname": "Striped Hyaena",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Hyène rayée",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Hiena Rayada",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Proteles cristata",
+  "common_names": [
+   {
+    "taxonname": "Aardwolf",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Protèle",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Lobo de Tierra",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Aonyx capensis",
+  "common_names": [
+   {
+    "taxonname": "African Clawless Otter",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Cape Clawless Otter",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Loutre à joues blanches",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Nutria Africana",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Nutria de Cuello Blanco",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Hydrictis maculicollis",
+  "common_names": [
+   {
+    "taxonname": "Spotted-necked Otter",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Speckle-throated Otter",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Spot-necked Otter",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Loutre à cou tacheté",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Nutria de Cuello Manchado",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Ictonyx striatus",
+  "common_names": [
+   {
+    "taxonname": "Zorilla",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Striped Weasel",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Striped Polecat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Zorille commun",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Mellivora capensis",
+  "common_names": [
+   {
+    "taxonname": "Honey Badger",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Ratel",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Ratel",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Blaireau à miel",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Poecilogale albinucha",
+  "common_names": [
+   {
+    "taxonname": "African Striped Weasel",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Poecilogale à nuque blanche",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Nandinia binotata",
+  "common_names": [
+   {
+    "taxonname": "African Palm Civet",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Two-spotted Palm Civet",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Tree Civet",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Nandinie",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Civettictis civetta",
+  "common_names": [
+   {
+    "taxonname": "African Civet",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Civette d'Afrique",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Civette africaine",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Genetta angolensis",
+  "common_names": [
+   {
+    "taxonname": "Miombo Genet",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Angolan Genet",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Genette d'Angola",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Genetta genetta",
+  "common_names": [
+   {
+    "taxonname": "Common Genet",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Genette commune",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Gineta",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Genetta maculata",
+  "common_names": [
+   {
+    "taxonname": "Rusty-spotted Genet",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Panther Genet",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Central African Large-spotted Genet",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Blotched Genet",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Large-spotted Genet",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Genette commune à grandes taches",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Genette à taches rousses",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Genetta servalina",
+  "common_names": [
+   {
+    "taxonname": "Servaline Genet",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Genette servaline",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Viverricula indica",
+  "common_names": [
+   {
+    "taxonname": "Small Indian Civet",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Oriental Civet",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Civette Indienne",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Equus burchelli",
+  "common_names": []
+ },
+ {
+  "taxon": "Diceros bicornis",
+  "common_names": [
+   {
+    "taxonname": "Hook-lipped Rhinoceros",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Black Rhino",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Black Rhinoceros",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Rhinocéros noir",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Rinoceronte Negro",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Aepyceros melampus",
+  "common_names": [
+   {
+    "taxonname": "Impala",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Black-faced Impala",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Common Impala",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Impala",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Alcelaphus buselaphus",
+  "common_names": [
+   {
+    "taxonname": "Hartebeest",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Bubale",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Alcelaphus lichtensteinii",
+  "common_names": []
+ },
+ {
+  "taxon": "Bos taurus",
+  "common_names": []
+ },
+ {
+  "taxon": "Capra hircus",
+  "common_names": []
+ },
+ {
+  "taxon": "Cephalophus adersi",
+  "common_names": [
+   {
+    "taxonname": "Aders' Duiker",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Cephalophus natalensis",
+  "common_names": [
+   {
+    "taxonname": "Natal Red Duiker",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Natal Duiker",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Red Forest Duiker",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Céphalophe du Natal",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Cephalophus spadix",
+  "common_names": [
+   {
+    "taxonname": "Abbott's Duiker",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Minde",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Céphalophe d'Abbott",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Connochaetes taurinus",
+  "common_names": [
+   {
+    "taxonname": "Common Wildebeest",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Blue Wildebeest",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "White-bearded Wildebeest",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Brindled Gnu",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Gnou bleu",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Damaliscus korrigum",
+  "common_names": []
+ },
+ {
+  "taxon": "Eudorcus thomsonii",
+  "common_names": []
+ },
+ {
+  "taxon": "Hippotragus equinus",
+  "common_names": [
+   {
+    "taxonname": "Roan Antelope",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Hippotrague",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Antilope rouane",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Antilope chevaline",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Hippotragus niger",
+  "common_names": [
+   {
+    "taxonname": "Sable Antelope",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Hippotrague noir",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Antílope Sable Negro",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Kobus ellipsiprymnus",
+  "common_names": [
+   {
+    "taxonname": "Waterbuck",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Cobe onctueux",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Kobus vardonii",
+  "common_names": [
+   {
+    "taxonname": "Puku",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Puku",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Litocranius walleri",
+  "common_names": [
+   {
+    "taxonname": "Gerenuk",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Gazelle de Waller",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Gazelle-Giraffe",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Madoqua kirkii",
+  "common_names": [
+   {
+    "taxonname": "Kirk's Dik-dik",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Dik-dik de Kirk",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Nanger granti",
+  "common_names": [
+   {
+    "taxonname": "Grant's Gazelle",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Gazelle de Grant",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Neotragus moschatus",
+  "common_names": []
+ },
+ {
+  "taxon": "Oreotragus oreotragus",
+  "common_names": [
+   {
+    "taxonname": "Klipspringer",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Oréotrague",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Oryx beisa",
+  "common_names": [
+   {
+    "taxonname": "Beisa Oryx",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Oryx Beisa",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Ourebia ourebi",
+  "common_names": [
+   {
+    "taxonname": "Oribi",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Ourébi",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Ovis aries",
+  "common_names": []
+ },
+ {
+  "taxon": "Philantomba monticola",
+  "common_names": [
+   {
+    "taxonname": "Blue Duiker",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Céphalophe bleu",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Duiquero Azul",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Raphicerus campestris",
+  "common_names": [
+   {
+    "taxonname": "Steenbok",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Steenbok",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Raphicerus sharpei",
+  "common_names": [
+   {
+    "taxonname": "Sharpe's Grysbok",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Grysbok de Sharpe",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Redunca arundinum",
+  "common_names": [
+   {
+    "taxonname": "Southern Reedbuck",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Redunca grande",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Redunca fulvorufula",
+  "common_names": [
+   {
+    "taxonname": "Mountain Reedbuck",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Redunca de montagne",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Redunca redunca",
+  "common_names": [
+   {
+    "taxonname": "Bohor Reedbuck",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Common Reedbuck",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Cobe de Roseaux",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Sylvicapra grimmia",
+  "common_names": [
+   {
+    "taxonname": "Common Duiker",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Grey Duiker",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Bush Duiker",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Céphalophe de Grimm",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Céphalophe du Cap",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Syncerus caffer",
+  "common_names": [
+   {
+    "taxonname": "African Buffalo",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Buffle d'Afrique",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Taurotragus oryx",
+  "common_names": []
+ },
+ {
+  "taxon": "Tragelaphus imberbis",
+  "common_names": [
+   {
+    "taxonname": "Lesser Kudu",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Petit koudou",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Tragelaphus scriptus",
+  "common_names": [
+   {
+    "taxonname": "Bushbuck",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Guib Harnaché",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Tragelaphus spekii",
+  "common_names": [
+   {
+    "taxonname": "Sitatunga",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Marshbuck",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Guib d'Eau",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Sitatunga",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Tragelaphus strepsiceros",
+  "common_names": [
+   {
+    "taxonname": "Greater Kudu",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Grand Koudou",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Giraffa camelopardalis",
+  "common_names": [
+   {
+    "taxonname": "Giraffe",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Girafe",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Jirafa",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Hippopotamus amphibius",
+  "common_names": [
+   {
+    "taxonname": "Hippopotamus",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Large Hippo",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Common Hippopotamus",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Hippopotame",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Hipopótamo Anfibio",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Hylochoerus meinertzhageni",
+  "common_names": [
+   {
+    "taxonname": "Forest Hog",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Giant Forest Hog",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Hylochère",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Hiloquero",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Phacochoerus africanus",
+  "common_names": [
+   {
+    "taxonname": "Common Warthog",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Eritrean Warthog",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Warthog",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Phacochère Commun",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Potamochoerus larvatus",
+  "common_names": [
+   {
+    "taxonname": "Bushpig",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Potamochère",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Potamochère du Cap",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Sus scrofa",
+  "common_names": [
+   {
+    "taxonname": "Wild Boar",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Eurasian Wild Pig",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Ryukyu Islands Wild Pig",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Sanglier",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Sanglier d'Eurasie",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Jabalí",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Eubalaena australis",
+  "common_names": [
+   {
+    "taxonname": "Southern Right Whale",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Baleine Australe",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Ballena Franca Austral",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Balaenoptera borealis",
+  "common_names": [
+   {
+    "taxonname": "Sei Whale",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Rorqual Boréal",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Rorqual Sei",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Ballena Sei",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Rorcual Boreal",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Rorcual Norteño",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Balaenoptera edeni",
+  "common_names": [
+   {
+    "taxonname": "Bryde's Whale",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Balaenoptera musculus",
+  "common_names": [
+   {
+    "taxonname": "Blue Whale",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Baleine bleue",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Ballena Azul",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Balaenoptera physalus",
+  "common_names": [
+   {
+    "taxonname": "Fin Whale",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Finback",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Rorqual Commun",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Ballena Aleta",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Rorcual Común",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Megaptera novaeangliae",
+  "common_names": [
+   {
+    "taxonname": "Humpback Whale",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Jubarte",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Mégaptère",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Baleine à bosse",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Gubarte",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Ballena Jorobada",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Yubarta",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Delphinus capensis",
+  "common_names": []
+ },
+ {
+  "taxon": "Delphinus delphis",
+  "common_names": [
+   {
+    "taxonname": "Common Dolphin",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Saddleback Dolphin",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Short-beaked Common Dolphin",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Pacific Dolphin",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Short-beaked Saddleback Dolphin",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Dauphin commun",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Delfín Común",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Feresa attenuata",
+  "common_names": [
+   {
+    "taxonname": "Pygmy Killer Whale",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Orque pygmée",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Orca Pigmeo",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Globicephala macrorhynchus",
+  "common_names": [
+   {
+    "taxonname": "Short-finned Pilot Whale",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Pacific Pilot Whale",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Blackfish",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Globicéphale tropical",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Caldrón Negro",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Grampus griseus",
+  "common_names": [
+   {
+    "taxonname": "Risso's Dolphin",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Grey Dolphin",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Dauphin de Risso",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Grampus",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Delfín de Risso",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "calderón gris",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Fabo Calderón",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Lagenodelphis hosei",
+  "common_names": [
+   {
+    "taxonname": "Fraser's Dolphin",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Sarawak Dolphin",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Dauphin de Fraser",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Delfín de Borneo",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Orcinus orca",
+  "common_names": [
+   {
+    "taxonname": "Killer Whale",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Orca",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Epaulard",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Orque",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Espadarte",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Orca",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Peponocephala electra",
+  "common_names": [
+   {
+    "taxonname": "Melon-headed Whale",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Electra Dolphin",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Péponocéphale",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Dauphin d'Electre",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Electra",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Delfín Cabeza de Melón",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Pseudorca crassidens",
+  "common_names": [
+   {
+    "taxonname": "False Killer Whale",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Faux-orque",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Orca Falsa",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Sousa chinensis",
+  "common_names": [
+   {
+    "taxonname": "Chinese White Dolphin",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Indo-Pacific Humpback Dolphin",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Dauphin a bosse de I'Indo-Pacifique",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Delfin jorobado del Indo-Pacifico",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Stenella attenuata",
+  "common_names": [
+   {
+    "taxonname": "Pantropical Spotted Dolphin",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Dauphin tacheté Pantropical",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Delfín Manchado",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Delfín Pintado",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Stenella coeruleoalba",
+  "common_names": [
+   {
+    "taxonname": "Striped Dolphin",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Euphrosyne Dolphin",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Dauphin bleu et blanc",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Dauphin rayé",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Delfín Listado",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Delfín Blanco y Azul",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Stenella longirostris",
+  "common_names": [
+   {
+    "taxonname": "Spinner Dolphin",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Long-snouted Dolphin",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Long-beaked Dolphin",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Dauphin longirostre",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Delfín Tornillón",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Estenela Giradora",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Steno bredanensis",
+  "common_names": [
+   {
+    "taxonname": "Rough-toothed Dolphin",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Sténo",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Dauphin à Bec Etroit",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Delfín de Pico Largo",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Tursiops truncatus",
+  "common_names": [
+   {
+    "taxonname": "Common Bottlenose Dolphin",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Bottle-nosed Dolphin",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Bottlenose Dolphin",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Bottlenosed Dolphin",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Souffleur",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Tursiops",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Dauphin Souffleur",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Grand Dauphin",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Delfín Mular",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Pez Mular",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Tursión",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Kogia breviceps",
+  "common_names": [
+   {
+    "taxonname": "Pygmy Sperm Whale",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Cachalot pygmée",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Cachalote Cabeza Chica",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Cachalote Pigmeo",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Physeter catodon",
+  "common_names": []
+ },
+ {
+  "taxon": "Mesoplodon densirostris",
+  "common_names": [
+   {
+    "taxonname": "Blainville's Beaked Whale",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Blainville's Beaked Whale",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Mésoplodon de Blainville",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Mésoplodon de Blainville",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Zifio de Blainville",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Ballena de Pico de Blainville",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Ballena de Pico de Blainville",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Zifio de Blainville",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Ziphius cavirostris",
+  "common_names": [
+   {
+    "taxonname": "Goosebeak Whale",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Cuvier's Beaked Whale",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Cuvier's Beaked Whale",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Goose-beaked Whale",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Baleine de Cuvier",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Ziphius",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Ziphio de Cuvier",
+    "primary": false,
+    "language": "spa"
+   },
+   {
+    "taxonname": "Ballena de Cuvier",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Anomalurus derbianus",
+  "common_names": [
+   {
+    "taxonname": "Derby's Flying Squirrel",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Lord Derby's Flying Squirrel",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Lord Derby's Scaly-tailed Squirrel",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Anamolure de Derby",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Ecureuil volant de Derby",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Écureuil volant de Derby",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Idiurus macrotis",
+  "common_names": [
+   {
+    "taxonname": "Long-eared Scaly-tailed Flying Squirrel",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Long-eared Flying Squirrel",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Anamolure Nain",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Ardilla Voladera De Orejas Largas",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Cryptomys hottentotus",
+  "common_names": [
+   {
+    "taxonname": "African Mole Rat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Cryptomys mechowi",
+  "common_names": []
+ },
+ {
+  "taxon": "Heliophobius argenteocinereus",
+  "common_names": [
+   {
+    "taxonname": "Silvery Mole Rat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Lophiomys imhausi",
+  "common_names": [
+   {
+    "taxonname": "Crested Rat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Graphiurus kelleni",
+  "common_names": [
+   {
+    "taxonname": "Kellen's Dormouse",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Kellen's African Dormouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Graphiurus microtis",
+  "common_names": [
+   {
+    "taxonname": "Small-eared Dormouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Graphiurus murinus",
+  "common_names": [
+   {
+    "taxonname": "Woodland Dormouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Hystrix africaeaustralis",
+  "common_names": [
+   {
+    "taxonname": "Cape Porcupine",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Hystrix cristata",
+  "common_names": [
+   {
+    "taxonname": "Crested Porcupine",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "North African Crested Porcupine",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Porc-épic du Nord de l'Afrique",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Porc-épic à Crete",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Puercoespín",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Acomys ignitus",
+  "common_names": [
+   {
+    "taxonname": "Fiery Spiny Mouse",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Acomys kempi",
+  "common_names": [
+   {
+    "taxonname": "Kemp's Spiny Mouse",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Acomys spinosissimus",
+  "common_names": [
+   {
+    "taxonname": "Spiny Mouse",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Southern African Spiny Mouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Acomys wilsoni",
+  "common_names": [
+   {
+    "taxonname": "Wilson's Spiny Mouse",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Aethomys chrysophilus",
+  "common_names": [
+   {
+    "taxonname": "Red Rock Rat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Red Veld Aethomys",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Aethomys hindei",
+  "common_names": [
+   {
+    "taxonname": "Hinde's Rock Rat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Hinde’s Aethomys",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Aethomys kaiseri",
+  "common_names": [
+   {
+    "taxonname": "Kaiser's Rock Rat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Kaiser’s Aethomys",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Arvicanthis nairobae",
+  "common_names": [
+   {
+    "taxonname": "Nairobi Grass Rat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "East African Arvicanthis",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Arvicanthis neumanni",
+  "common_names": [
+   {
+    "taxonname": "Neumann’s Arvicanthis",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Somali Grass Rat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Neumann’s Grass Rat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Arvicanthis niloticus",
+  "common_names": [
+   {
+    "taxonname": "African Grass Rat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "African Arvicanthis",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Dasymys alleni",
+  "common_names": []
+ },
+ {
+  "taxon": "Dasymys incomtus",
+  "common_names": [
+   {
+    "taxonname": "Common Dasymys",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "African Marsh Rat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Dasymys sua",
+  "common_names": []
+ },
+ {
+  "taxon": "Dipodillus harwoodi",
+  "common_names": []
+ },
+ {
+  "taxon": "Gerbilliscus boehmi",
+  "common_names": [
+   {
+    "taxonname": "Boehm's Gerbil",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Gerbilliscus inclusa",
+  "common_names": []
+ },
+ {
+  "taxon": "Gerbilliscus leucogaster",
+  "common_names": [
+   {
+    "taxonname": "Bushveld Gerbil",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Gerbilliscus nigricaudus",
+  "common_names": [
+   {
+    "taxonname": "Black-tailed Gerbil",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Gerbilliscus robustus",
+  "common_names": [
+   {
+    "taxonname": "Fringe-tailed Gerbil",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Gerbilliscus validus",
+  "common_names": [
+   {
+    "taxonname": "Savanna Gerbil",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Gerbillus pusillus",
+  "common_names": [
+   {
+    "taxonname": "Least Gerbil",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Grammomys dolichurus",
+  "common_names": [
+   {
+    "taxonname": "Woodland Thicket Rat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Grammomys ibeanus",
+  "common_names": [
+   {
+    "taxonname": "Ruwenzori Thicket Rat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Grammomys macmillani",
+  "common_names": [
+   {
+    "taxonname": "Macmillan's Thicket Rat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Hylomyscus anselli",
+  "common_names": []
+ },
+ {
+  "taxon": "Hylomyscus arcimontensis",
+  "common_names": []
+ },
+ {
+  "taxon": "Hylomyscus denniae",
+  "common_names": []
+ },
+ {
+  "taxon": "Hylomyscus stella",
+  "common_names": []
+ },
+ {
+  "taxon": "Lemniscomys rosalia",
+  "common_names": [
+   {
+    "taxonname": "Single-striped Grass Mouse",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Single-striped Lemniscomys",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Lemniscomys striatus",
+  "common_names": [
+   {
+    "taxonname": "Typical Lemniscomys",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Typical Striped Grass Mouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Lemniscomys zebra",
+  "common_names": [
+   {
+    "taxonname": "Heuglin's Striped Grass Mouse",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Heuglin's Lemniscomys",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Heuglin’s Lemniscomys",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Lophuromys ansorgei",
+  "common_names": []
+ },
+ {
+  "taxon": "Lophuromys aquilus",
+  "common_names": []
+ },
+ {
+  "taxon": "Lophuromys sikapusi",
+  "common_names": [
+   {
+    "taxonname": "Rusty-bellied Brush-furred Rat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Lophuromys verhageni",
+  "common_names": []
+ },
+ {
+  "taxon": "Mastomys natalensis",
+  "common_names": [
+   {
+    "taxonname": "Natal Multimammate Mouse",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Natal Mastomys",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Mastomys pernanus",
+  "common_names": [
+   {
+    "taxonname": "Dwarf Multimammate Mouse",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Dwarf Mastomys",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Mus minutoides",
+  "common_names": [
+   {
+    "taxonname": "Pygmy Mouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Mus musculoides",
+  "common_names": []
+ },
+ {
+  "taxon": "Mus musculus",
+  "common_names": [
+   {
+    "taxonname": "House Mouse",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Souris domestique",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Ratón Casero",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Mus neavi",
+  "common_names": []
+ },
+ {
+  "taxon": "Mus sorella",
+  "common_names": [
+   {
+    "taxonname": "Thomas's Mouse",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Thomas's Pygmy Mouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Mus tenellus",
+  "common_names": [
+   {
+    "taxonname": "Delicate Mouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Mus triton",
+  "common_names": [
+   {
+    "taxonname": "Gray-bellied Pygmy Mouse",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Gray-bellied Mouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Mylomys dybowskyii",
+  "common_names": []
+ },
+ {
+  "taxon": "Myomyscus brockmani",
+  "common_names": [
+   {
+    "taxonname": "Brockman's Myomyscus",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Brockman’s Myomyscus",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Oenomys hypoxanthus",
+  "common_names": [
+   {
+    "taxonname": "Rufous-nosed Rat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Otomys angoniensis",
+  "common_names": [
+   {
+    "taxonname": "Angoni Vlei Rat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Otomys denti",
+  "common_names": [
+   {
+    "taxonname": "Dent's Vlei Rat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Otomys lacustris",
+  "common_names": [
+   {
+    "taxonname": "Tanzanian Vlei Rat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Otomys orestes",
+  "common_names": []
+ },
+ {
+  "taxon": "Otomys tropicalis",
+  "common_names": [
+   {
+    "taxonname": "Tropical Vlei Rat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Otomys uzungwensis",
+  "common_names": [
+   {
+    "taxonname": "Uzungwe Vlei Rat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Pelomys fallax",
+  "common_names": [
+   {
+    "taxonname": "Creek Groove-toothed Swamp Rat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Pelomys minor",
+  "common_names": [
+   {
+    "taxonname": "Least Groove-toothed Swamp Rat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Praomys jacksoni",
+  "common_names": [
+   {
+    "taxonname": "Jackson's Praomys",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Jackson's Soft-furred Mouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Rattus norvegicus",
+  "common_names": [
+   {
+    "taxonname": "Brown Rat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Rattus rattus",
+  "common_names": [
+   {
+    "taxonname": "House Rat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Roof Rat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Black Rat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Ship Rat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Rat noir",
+    "primary": false,
+    "language": "fre"
+   },
+   {
+    "taxonname": "Rata Negra",
+    "primary": false,
+    "language": "spa"
+   }
+  ]
+ },
+ {
+  "taxon": "Rhabdomys dilectus",
+  "common_names": [
+   {
+    "taxonname": "Mesic Four-striped Grass Rat",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Taterillus harringtoni",
+  "common_names": []
+ },
+ {
+  "taxon": "Thallomys loringi",
+  "common_names": [
+   {
+    "taxonname": "Loring's Rat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Thallomys paedulcus",
+  "common_names": [
+   {
+    "taxonname": "Acacia Rat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Uranomys ruddi",
+  "common_names": [
+   {
+    "taxonname": "Rudd's Mouse",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Rudd’s Bristle-furred Rat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Zelotomys hildegardeae",
+  "common_names": [
+   {
+    "taxonname": "Hildegarde's Zelotomys",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Hildegarde's Broad-headed Mouse",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Hildegarde’s Zelotomys",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Beamys hindei",
+  "common_names": [
+   {
+    "taxonname": "Long-tailed Pouched Rat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Lesser Hamster-rat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Hinde’s Pouched Rat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Lesser Pouched Rat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Cricetomys ansorgei",
+  "common_names": [
+   {
+    "taxonname": "East African Savannah Pouched Rat",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Southern Giant Pouched Rat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "African Giant Rat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Gambian Rat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Giant Pouched Rat",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Giant Rat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Dendromus insignis",
+  "common_names": [
+   {
+    "taxonname": "Remarkable Climbing Mouse",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Montane African Climbing Mouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Dendromus melanotis",
+  "common_names": [
+   {
+    "taxonname": "Gray African Climbing Mouse",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Gray Glimbing Mouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Dendromus mesomelas",
+  "common_names": [
+   {
+    "taxonname": "Brant's Climbing Mouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Dendromus mystacalis",
+  "common_names": [
+   {
+    "taxonname": "Chestnut Climbing Mouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Dendromus nyasae",
+  "common_names": []
+ },
+ {
+  "taxon": "Dendromus nyikae",
+  "common_names": [
+   {
+    "taxonname": "Nyika Climbing Mouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Saccostomus campestris",
+  "common_names": [
+   {
+    "taxonname": "Pouched Mouse",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Southern African Pouched Mouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Saccostomus mearnsi",
+  "common_names": [
+   {
+    "taxonname": "Mearns's Pouched Mouse",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "East African Pouched Mouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Steatomys parvus",
+  "common_names": [
+   {
+    "taxonname": "Tiny Fat Mouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Steatomys pratensis",
+  "common_names": [
+   {
+    "taxonname": "Fat Mouse",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Petedes surdaster",
+  "common_names": []
+ },
+ {
+  "taxon": "Heliosciurus gambianus",
+  "common_names": [
+   {
+    "taxonname": "Gambian Sun Squirrel",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Héliosciure Typique De Gambie",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Heliosciurus mutabilis",
+  "common_names": [
+   {
+    "taxonname": "Mutable Sun Squirrel",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Heliosciurus rufobrachium",
+  "common_names": [
+   {
+    "taxonname": "Crab-eating Mongoose",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Isabelline Red-legged Sun Squirrel",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Red-legged Sun Squirrel",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Héliosciure à pattes rousses",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Heliosciurus undulatus",
+  "common_names": [
+   {
+    "taxonname": "Zanj Sun Squirrel",
+    "primary": true,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Paraxerus boehmi",
+  "common_names": [
+   {
+    "taxonname": "Boehm's Bush Squirrel",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Paraxerus cepapi",
+  "common_names": [
+   {
+    "taxonname": "Smith's Bush Squirrel",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Paraxerus flavovittis",
+  "common_names": [
+   {
+    "taxonname": "Striped Bush Squirrel",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Paraxerus lucifer",
+  "common_names": [
+   {
+    "taxonname": "Black And Red Bush Squirrel",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Paraxerus ochraceus",
+  "common_names": [
+   {
+    "taxonname": "Ochre Bush Squirrel",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Paraxerus palliatus",
+  "common_names": [
+   {
+    "taxonname": "Red Bush Squirrel",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Paraxerus vexillarius",
+  "common_names": [
+   {
+    "taxonname": "Svynnerton's Bush Squirrel",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Protoxerus stangeri",
+  "common_names": [
+   {
+    "taxonname": "African Giant Squirrel",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Forest Giant Squirrel",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Grand Ecureuil De Stanger",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Xerus erythropus",
+  "common_names": [
+   {
+    "taxonname": "Striped Ground Squirrel",
+    "primary": true,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Geoffroy's Ground Squirrel",
+    "primary": false,
+    "language": "eng"
+   },
+   {
+    "taxonname": "Ecureuil Géant De Stanger",
+    "primary": false,
+    "language": "fre"
+   }
+  ]
+ },
+ {
+  "taxon": "Xerus rutilus",
+  "common_names": [
+   {
+    "taxonname": "Unstriped Ground Squirrel",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Tachyoryctes ankoliae",
+  "common_names": []
+ },
+ {
+  "taxon": "Tachyoryctes daemon",
+  "common_names": []
+ },
+ {
+  "taxon": "Tachyoryctes naivashae",
+  "common_names": []
+ },
+ {
+  "taxon": "Tachyoryctes ruddi",
+  "common_names": []
+ },
+ {
+  "taxon": "Thryonomys gregorianus",
+  "common_names": [
+   {
+    "taxonname": "Lesser Cane Rat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ },
+ {
+  "taxon": "Thryonomys swinderianus",
+  "common_names": [
+   {
+    "taxonname": "Greater Cane Rat",
+    "primary": false,
+    "language": "eng"
+   }
+  ]
+ }
+]
