@@ -69,7 +69,7 @@ def parse_descriptions(raw:dict) -> dict:
                 if label == 'Measurements:':
                     prep_row = re.sub(r'(.+[A-Z])', ' \g<1>', prep_row)
                 
-                print(f'{prepped["irn"]}  :  {label}  :  {prep_row}')
+                # print(f'{prepped["irn"]}  :  {label}  :  {prep_row}')
 
                 prepped[label_column] = prep_label
                 prepped[text_column] = prep_row
@@ -88,48 +88,6 @@ def parse_descriptions(raw:dict) -> dict:
             prepped[pad_text_column] = None
             prepped[pad_biblio_column] = None
             j += 1
-
-    # prepped["DesLabel0(+ group='1')"] = "Type Description"
-    # prepped["DesDescription0(+ group='1')"] = raw['type_descrip']
-    # prepped["DesBiblioRef0(+ group='1').irn"] = 41852
-
-    # prepped["DesLabel0(+ group='2')"] = "Type Locality"
-    # prepped["DesDescription0(+ group='2')"] = raw['type_locality']
-    # prepped["DesBiblioRef0(+ group='2').irn"] = 41852
-
-    # prepped["DesLabel0(+ group='3')"] = "Description"
-    # prepped["DesDescription0(+ group='3')"] = re.sub(
-    #     r"(.|\n)*(Description\:)(.+)(\n*Distrib)(\n|.)*",
-    #     "\g<3>",
-    #     raw['descrip_text_raw'])
-    # prepped["DesBiblioRef0(+ group='3').irn"] = 41852
-
-    # prepped["DesLabel0(+ group='4')"] = "Distribution"
-    # prepped["DesDescription0(+ group='4')"] = re.sub(
-    #     r"(.|\n)*(Distribution\:)(.+)(\n*\s*Figure \d.+)(\n|.)*",
-    #     "\g<3>",
-    #     raw['descrip_text_raw'])
-    # prepped["DesBiblioRef0(+ group='4').irn"] = 41852
-
-    # prepped["DesLabel0(+ group='5')"] = "Key Reference"
-    # prepped["DesDescription0(+ group='5')"] = raw['key_reference']
-    # prepped["DesBiblioRef0(+ group='5').irn"] = 41852
-
-    # prepped["DesLabel0(+ group='6')"] = "Comparisons"
-    # prepped["DesDescription0(+ group='6')"] = re.sub(
-    #     r"(.|\n)*(Comparisons*\:)(.+)(\n*Distrib)(\n|.)*",
-    #     "\g<3>",
-    #     raw['descrip_text_raw'])
-    # prepped["DesBiblioRef0(+ group='6').irn"] = 41852
-
-    # prepped["DesLabel0(+ group='7')"] = "Measurements"
-    # prepped["DesDescription0((+ group='7')"] = re.sub(
-    #     r"(.|\n)*(Measurements\:)(.+)(\n*|.)*",
-    #     "\g<3>",
-    #     raw['descrip_text_raw'])
-    # prepped["DesBiblioRef0((+ group='7').irn"] = 41852
-
-    # print(prepped)
 
     return prepped
 
