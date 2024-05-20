@@ -67,7 +67,7 @@ def parse_descriptions(raw:dict) -> dict:
                 
                 prep_row = re.sub(label, '', row).strip()
                 if label == 'Measurements:':
-                    prep_row = re.sub(r'(.+[A-Z])', ' \g<1>', prep_row)
+                    prep_row = re.sub(r'(\S+)([A-Z])', '\g<1> | \g<2>', prep_row)
                 
                 # print(f'{prepped["irn"]}  :  {label}  :  {prep_row}')
 
@@ -115,7 +115,7 @@ def main():
             list_of_dict = prepped_descriptions,
             csv_fieldnames = prepped_descriptions[0].keys(),
             output_path = "output",
-            output_file = f"prepped_taxa_{date_stamp}.csv")
+            output_file = f"parsed_taxa_{date_stamp}.csv")
 
 
 if __name__ == '__main__':
