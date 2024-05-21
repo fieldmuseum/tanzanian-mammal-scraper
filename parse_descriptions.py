@@ -24,6 +24,7 @@ def parse_descriptions(raw:dict) -> dict:
         'Type Locality:',
         'Distribution:',
         'Key References:',
+        'Key Reference:',
         'Comparisons:',
         'Measurements:',
         'Figure'
@@ -38,6 +39,9 @@ def parse_descriptions(raw:dict) -> dict:
         )
     
     raw_descrip_list = raw_description_text.split(' | ')
+
+    if str(raw['irn']) == '313512':
+        print(f'raw_description_text    ==    ==    {raw_description_text}')
 
     # Setup lists to group un-found labels
     found_labels = []
@@ -67,13 +71,24 @@ def parse_descriptions(raw:dict) -> dict:
                 
                 prep_row = re.sub(label, '', row).strip()
                 if label == 'Measurements:':
-                    prep_row = re.sub(r'(\S+)([A-Z])', '\g<1> | \g<2>', prep_row)
-                
-                # print(f'{prepped["irn"]}  :  {label}  :  {prep_row}')
+                    prep_row = re.sub(r'(\S+)([A-Z])', 
+                                      '''\g<1>
+\g<2>''', 
+                                      prep_row)
+
+                if label == 'Key Reference:':
+                    prep_label = 'Key References'
+                    prep_row = re.sub(r'(\.)(\d)',
+                                      '''\g<1> 
+\g<2>''', 
+                                      prep_row)
 
                 prepped[label_column] = prep_label
                 prepped[text_column] = prep_row
                 prepped[biblio_column] = 41852
+
+                if str(raw['irn']) == '313512':
+                    print(f'prepped description_text    ==  {prep_label}  ==  {prep_row}')
 
                 i += 1
         
