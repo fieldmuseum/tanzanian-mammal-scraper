@@ -1,7 +1,7 @@
 '''Utility functions scraping web pages'''
 
 # import asyncio, httpx
-import requests, os, re, glom
+import requests
 from bs4 import BeautifulSoup
 # from dotenv import dotenv_values
 # from markdownify import markdownify as md
