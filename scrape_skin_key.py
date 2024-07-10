@@ -1,7 +1,7 @@
 '''Scraper for Tanzanian Mammals ID Key Site'''
 
 import argparse, csv, os, re, time
-from datetime import datetime, date
+from datetime import date
 import utils.scrape as us
 import utils.setup as setup
 
