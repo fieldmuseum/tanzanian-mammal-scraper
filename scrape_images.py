@@ -39,7 +39,7 @@ def get_image_files(
 
         remain_time = get_time_remaining(img_start, img_end, img_times, run_total, run_count, sleep_time)
 
-        print(f'row {run_count} / {run_total} -- {image_url} | remaining: {remain_time}')
+        print(f'row {run_count} / {run_total} | remaining: {remain_time} -- {image_url}')
 
         run_count += 1
 
@@ -91,8 +91,8 @@ def main():
     if not os.path.isdir(output_path):
         os.makedirs(output_path)
 
-    # test smaller set
-    all_images = all_images[0:5]
+    # # test smaller set
+    # all_images = all_images[0:5]
 
     start = datetime.now()
     print(start)
