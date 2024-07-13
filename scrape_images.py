@@ -4,29 +4,46 @@ import os, re, time
 import utils.csv as uc
 import utils.scrape as us
 import utils.setup as setup
+from datetime import datetime, timedelta
+
+def get_time_remaining(start, end, img_times, run_total, run_count, sleep_time):
+    '''estimate remaining time based on current average time'''
+
+    img_time = end - start 
+    img_times.append(img_time)
+
+    img_time_ave = sum(img_times, timedelta(0,0,0)) / len(img_times)
+    avg_remain_time = (run_total - run_count) * (img_time_ave + timedelta(seconds=sleep_time))
+
+    return avg_remain_time
 
 
 def get_image_files(
         image_url_list:list = None, 
-        output_path:str = None, 
-        run_count:int = 1):
+        output_path:str = './', 
+        run_count:int = 1,
+        sleep_time = 0.25):
     '''given a list of image URLs, retrieve image files'''
 
-    for image_url in image_url_list:
+    img_times = []
+    run_total = len(image_url_list)
 
-        run_total= len(image_url_list)
+    for image_url in image_url_list:
 
         image_filename = re.sub(r'(http.*\://)(.+/)+(.+\..+$)', '\g<3>', image_url)
         image_path = f'{output_path}{image_filename}'
 
-        print(f'row {run_count} / {run_total} -- {image_url} --> {image_path}')
+        img_start = datetime.now()
+        us.get_image(url = image_url, local_path=image_path)
+        img_end = datetime.now()
 
-        img_response = us.get_image(url = image_url, local_path=image_path)
-        print(img_response)
+        remain_time = get_time_remaining(img_start, img_end, img_times, run_total, run_count, sleep_time)
+
+        print(f'row {run_count} / {run_total} -- {image_url} | remaining: {remain_time}')
 
         run_count += 1
 
-        time.sleep(.5)
+        time.sleep(sleep_time)
 
 
 def get_image_list(scraped_page_list:list=None) -> list:
@@ -77,8 +94,13 @@ def main():
     # test smaller set
     all_images = all_images[0:5]
 
-    get_image_files(all_images)
+    start = datetime.now()
+    print(start)
 
+    get_image_files(all_images, output_path=output_path)
+
+    end = datetime.now()
+    print(f'{end} -- total run-time = {end-start}')
 
 if __name__ == '__main__':
     main()
