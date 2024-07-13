@@ -2,6 +2,8 @@
 
 # import asyncio, httpx
 import requests
+import shutil
+import time
 from bs4 import BeautifulSoup
 # from dotenv import dotenv_values
 # from markdownify import markdownify as md
@@ -68,4 +70,17 @@ def get_nested_fields(dom: str, nested_fields_xpath: dict) -> str:
     # TODO: For each nested_field, add rest of required dato-model-fields
 
     return content
+
+
+def get_image(url:str=None, local_path:str=None):
+    '''downloads an image file from a given image-url - from https://stackoverflow.com/a/18043472'''
+
+    response = requests.get(url, stream=True)    
+
+    time.sleep(.5)
+
+    with open(local_path, 'wb') as out_file:
+        shutil.copyfileobj(response.raw, out_file)
+
+    del response
 
