@@ -35,3 +35,19 @@ Run `python3 scrape_species.py [species list URL] [path/where/output/should/go/]
 For example, to start from the "general" page of the Skull Key:
 
 `python3 scrape_species.py "http://archive.fieldmuseum.org/tanzania/Species_Home.asp" output/`
+
+# EMu Records
+2024-July: English records are imported to EMu
+
+#### Multimedia
+- Group name: TAN website images (496)
+
+#### Narratives 
+- Group name: TAN Skin Key Options and Matches (535)
+- To do:
+  - corresponding Swahili key pages
+  - Skull Key pages
+
+
+
+
