@@ -31,19 +31,28 @@ def get_image_files(
     for image_url in image_url_list:
 
         image_filename = re.sub(r'(http.*\://)(.+/)+(.+\..+$)', '\g<3>', image_url)
+
         image_path = f'{output_path}{image_filename}'
 
-        img_start = datetime.now()
-        us.get_image(url = image_url, local_path=image_path)
-        img_end = datetime.now()
+        if len(re.findall(r'^http', image_filename)) > 0:
 
-        remain_time = get_time_remaining(img_start, img_end, img_times, run_total, run_count, sleep_time)
+            print(f'Skipping row {run_count} -- mangled url {image_url} or local path: {image_path}')
+        
+        else:
 
-        print(f'row {run_count} / {run_total} | remaining: {remain_time} -- {image_url}')
+            print(f'row {run_count} / {run_total} | {image_url} -> {image_path}')
+
+            img_start = datetime.now()
+            us.get_image(url = image_url, local_path=image_path)
+            img_end = datetime.now()
+
+            remain_time = get_time_remaining(img_start, img_end, img_times, run_total, run_count, sleep_time)
+
+            print(f'remaining: {remain_time}')
+
+            time.sleep(sleep_time)
 
         run_count += 1
-
-        time.sleep(sleep_time)
 
 
 def get_image_list(scraped_page_list:list=None) -> list:
@@ -92,7 +101,7 @@ def main():
         os.makedirs(output_path)
 
     # # test smaller set
-    # all_images = all_images[0:5]
+    # all_images = all_images[734:]
 
     start = datetime.now()
     print(start)
