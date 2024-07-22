@@ -44,9 +44,10 @@ For example, to start from the "general" page of the Skull Key:
 
 #### Narratives 
 - Group name: TAN Skin Key Options and Matches (535)
-- To do:
-  - corresponding Swahili key pages
-  - Skull Key pages
+
+## EMu / To do:
+  - Prep & Import corresponding Swahili key pages
+  - Prep & Import Skull Key pages
 
 
 
